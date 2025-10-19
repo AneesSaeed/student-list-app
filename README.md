@@ -13,10 +13,17 @@ A simple full-stack student management web application built to demonstrate clou
 | Infrastructure as Code | Terraform                                                  |
 
 ---
+## Screenshots
 
+### Main View
 
 | Desktop View | Mobile View |
 |---------------|--------------|
 | ![Desktop Screenshot](screenshots/desktop.png) | ![Mobile Screenshot](screenshots/mobile.png) |
 
+### Form Modal
+
+| Desktop | Mobile |
+|----------|---------|
+| ![Form Modal Desktop](screenshots/form-desktop.png) | ![Form Modal Mobile](screenshots/form-mobile.png) |
 ---
