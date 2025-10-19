@@ -27,3 +27,10 @@ A simple full-stack student management web application built to demonstrate clou
 |----------|---------|
 | ![Form Modal Desktop](screenshots/form-desktop.png) | ![Form Modal Mobile](screenshots/form-mobile.png) |
 ---
+
+### Azure Deployment
+
+The following screenshot shows the **Azure Resource Group** created using Terraform.  
+It includes the deployed services such as App Services, an Azure Database for PostgreSQL, and a Container Registry.
+
+![Azure Resource Group](screenshots/azure-resource-group.png)
